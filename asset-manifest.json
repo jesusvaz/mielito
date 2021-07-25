@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mielito/static/css/main.0feb6022.chunk.css",
+    "main.js": "/mielito/static/js/main.3edd25f8.chunk.js",
+    "main.js.map": "/mielito/static/js/main.3edd25f8.chunk.js.map",
+    "runtime-main.js": "/mielito/static/js/runtime-main.b371485d.js",
+    "runtime-main.js.map": "/mielito/static/js/runtime-main.b371485d.js.map",
+    "static/js/2.03fd427d.chunk.js": "/mielito/static/js/2.03fd427d.chunk.js",
+    "static/js/2.03fd427d.chunk.js.map": "/mielito/static/js/2.03fd427d.chunk.js.map",
+    "index.html": "/mielito/index.html",
+    "precache-manifest.c546dd9c1dc9c7fca30311b46e798406.js": "/mielito/precache-manifest.c546dd9c1dc9c7fca30311b46e798406.js",
+    "service-worker.js": "/mielito/service-worker.js",
+    "static/css/main.0feb6022.chunk.css.map": "/mielito/static/css/main.0feb6022.chunk.css.map",
+    "static/js/2.03fd427d.chunk.js.LICENSE.txt": "/mielito/static/js/2.03fd427d.chunk.js.LICENSE.txt",
+    "static/media/shopping-bag.30f07071.svg": "/mielito/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b371485d.js",
+    "static/js/2.03fd427d.chunk.js",
+    "static/css/main.0feb6022.chunk.css",
+    "static/js/main.3edd25f8.chunk.js"
+  ]
+}
